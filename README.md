@@ -1,2 +1,2 @@
 # chatbot
-A video based chatbot
+A facial recognition based chatbot for simple requests
